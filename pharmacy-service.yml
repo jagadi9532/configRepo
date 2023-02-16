@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url : jdbc:oracle:thin:@//localhost:1521/orcl
+    username : fbn_new
+    password : fbnnewpassword  
+    jpa :
+       database-platform: org.hibernate.dialect.Oracle10gDialect
+       show-sql : true
+       generate-ddl : false
+       hibernate :
+       ddl-auto : update       
+    
