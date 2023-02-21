@@ -9,5 +9,8 @@ spring:
        generate-ddl : false
        hibernate :
        ddl-auto : update   
+       
+name : Jagadish
+location : Suresh       
       
     
