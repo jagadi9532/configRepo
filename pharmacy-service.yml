@@ -9,4 +9,6 @@ spring:
        generate-ddl : false
        hibernate :
        ddl-auto : update   
-   
+test:
+  name: jagadish
+  location: newzland    
