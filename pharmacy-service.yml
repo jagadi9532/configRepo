@@ -10,7 +10,8 @@ spring:
        hibernate :
        ddl-auto : update   
        
-name : Jagadish
-location : Suresh       
+test:
+   name: Jagadish
+   location: Suresh       
       
     
