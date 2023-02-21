@@ -1,14 +1,5 @@
 ---
 spring:
-  profiles:
-    active:
-    - testenv
-
-...
-
----
-
-spring:
   config:
     activate:
       on-profile:
@@ -29,5 +20,4 @@ spring:
 test:
    name: Jagadish
    location: Suresh       
-      
-...    
+s...    
