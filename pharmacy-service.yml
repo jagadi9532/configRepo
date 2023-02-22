@@ -1,8 +1,8 @@
 spring:
   datasource:
     url : jdbc:oracle:thin:@//localhost:1521/orcl
-    username : member
-    password : member  
+    username : pharmacy
+    password : pharmacy  
     jpa :
        database-platform: org.hibernate.dialect.Oracle10gDialect
        show-sql : true
